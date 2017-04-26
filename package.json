@@ -1,0 +1,29 @@
+{
+  "name": "allex_objectarrayconversionlowlevellib",
+  "version": "1.0.0",
+  "description": "Functions for converting arrays to associative containers and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-lowlevel-libs/objectarrayconversion.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "object",
+    "array",
+    "conversion",
+    "lib"
+  ],
+  "devDependencies": {
+    "chai": "3.x"
+  },
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-lowlevel-libs/objectarrayconversion/issues"
+  },
+  "homepage": "https://github.com/allex-lowlevel-libs/objectarrayconversion#readme"
+}
